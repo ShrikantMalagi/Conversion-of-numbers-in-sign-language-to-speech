@@ -13,3 +13,6 @@ The CNN training file is the training.ipynb you can train your own model by chan
 Feel free to use my model.
 
 The final program is provided in Final.py make sure you specify the right path to your model
+
+
+![alt text](https://github.com/ShrikantMalagi/Conversion-of-numbers-in-sign-language-to-speech/blob/main/Only_Confusion_matrix.png?raw=true)
