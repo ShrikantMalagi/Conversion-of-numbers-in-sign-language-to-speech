@@ -16,3 +16,6 @@ The final program is provided in Final.py make sure you specify the right path t
 
 
 ![alt text](https://github.com/ShrikantMalagi/Conversion-of-numbers-in-sign-language-to-speech/blob/main/Only_Confusion_matrix.png?raw=true)
+
+
+![alt text](https://github.com/ShrikantMalagi/Conversion-of-numbers-in-sign-language-to-speech/blob/main/training_graph.PNG?raw=true)
